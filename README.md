@@ -1,0 +1,6 @@
+- A Data Science and AI/ML project in python language.
+- It's a Movie Recommendation Project
+- I made it during my internship in YBI Foundation.
+- I used pandas & numpy libraries for this project.
+- This project can help you to learn about Data science and ML.
+- Begginer friendly project.
